@@ -1,0 +1,16 @@
+D:\Xamarin\Baitap1\demo1\demo1\demo1\obj\Debug\netstandard2.0\demo1.csprojAssemblyReference.cache
+D:\Xamarin\Baitap1\demo1\demo1\demo1\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Xamarin\Baitap1\demo1\demo1\demo1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Xamarin\Baitap1\demo1\demo1\demo1\obj\Debug\netstandard2.0\MH_Chao.xaml.g.cs
+D:\Xamarin\Baitap1\demo1\demo1\demo1\obj\Debug\netstandard2.0\demo1.csproj.CoreCompileInputs.cache
+D:\Xamarin\Baitap1\demo1\demo1\demo1\obj\Debug\netstandard2.0\demo1.AssemblyInfoInputs.cache
+D:\Xamarin\Baitap1\demo1\demo1\demo1\obj\Debug\netstandard2.0\demo1.AssemblyInfo.cs
+D:\Xamarin\Baitap1\demo1\demo1\demo1\obj\Debug\netstandard2.0\demo1.dll
+D:\Xamarin\Baitap1\demo1\demo1\demo1\obj\Debug\netstandard2.0\demo1.pdb
+D:\Xamarin\Baitap1\demo1\demo1\demo1\bin\Debug\netstandard2.0\demo1.deps.json
+D:\Xamarin\Baitap1\demo1\demo1\demo1\bin\Debug\netstandard2.0\demo1.dll
+D:\Xamarin\Baitap1\demo1\demo1\demo1\bin\Debug\netstandard2.0\demo1.pdb
+D:\Xamarin\Baitap1\demo1\demo1\demo1\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Xamarin\Baitap1\demo1\demo1\demo1\obj\Debug\netstandard2.0\MH_TinhTong.xaml.g.cs
+D:\Xamarin\Baitap1\demo1\demo1\demo1\obj\Debug\netstandard2.0\MH_Login.xaml.g.cs
+D:\Xamarin\Baitap1\demo1\demo1\demo1\obj\Debug\netstandard2.0\Calculator.xaml.g.cs

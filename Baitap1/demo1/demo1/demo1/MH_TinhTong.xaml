@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="demo1.MH_TinhTong">
+    <ContentPage.Content>
+        <StackLayout Orientation="Vertical" HorizontalOptions="Start" VerticalOptions="Start">
+            <Label Text="Màn hình tính tổng!" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand"/>
+            <Label Text="Nhập số A" />
+            <Entry x:Name="txtsoa" Placeholder="Nhập số a"/>
+            <Label Text="Nhập số B"/>
+            <Entry x:Name="txtsob" Placeholder="Nhập số b"/>
+            <Label Text="Tính tổng" />
+            <Entry x:Name="txttong" IsEnabled="False" Placeholder="Tổng"/>
+            <Button x:Name="cmdtinhtong" Text="Tính Tổng" VerticalOptions="Center" Clicked="cmdtinhtong_Clicked"/>
+            <Button x:Name="cmdvetrangchu" Text="Về trang chủ" VerticalOptions="End" HorizontalOptions="End" Clicked="Cmdvetrangchu_Clicked"/>
+            
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
