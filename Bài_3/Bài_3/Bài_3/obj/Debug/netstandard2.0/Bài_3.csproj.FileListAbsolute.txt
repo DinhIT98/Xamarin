@@ -1,0 +1,13 @@
+E:\GITHUB\Bài_3\Bài_3\Bài_3\bin\Debug\netstandard2.0\Bài_3.deps.json
+E:\GITHUB\Bài_3\Bài_3\Bài_3\bin\Debug\netstandard2.0\Bài_3.dll
+E:\GITHUB\Bài_3\Bài_3\Bài_3\obj\Debug\netstandard2.0\Bài_3.csprojAssemblyReference.cache
+E:\GITHUB\Bài_3\Bài_3\Bài_3\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\GITHUB\Bài_3\Bài_3\Bài_3\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\GITHUB\Bài_3\Bài_3\Bài_3\obj\Debug\netstandard2.0\Bài_3.AssemblyInfoInputs.cache
+E:\GITHUB\Bài_3\Bài_3\Bài_3\obj\Debug\netstandard2.0\Bài_3.AssemblyInfo.cs
+E:\GITHUB\Bài_3\Bài_3\Bài_3\bin\Debug\netstandard2.0\Bài_3.pdb
+E:\GITHUB\Bài_3\Bài_3\Bài_3\obj\Debug\netstandard2.0\DanhSachLoaiHoa.xaml.g.cs
+E:\GITHUB\Bài_3\Bài_3\Bài_3\obj\Debug\netstandard2.0\ThemLoaiHoa.xaml.g.cs
+E:\GITHUB\Bài_3\Bài_3\Bài_3\obj\Debug\netstandard2.0\XamlC.stamp
+E:\GITHUB\Bài_3\Bài_3\Bài_3\obj\Debug\netstandard2.0\Bài_3.dll
+E:\GITHUB\Bài_3\Bài_3\Bài_3\obj\Debug\netstandard2.0\Bài_3.pdb

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Bài_3.ThemLoaiHoa">
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Label Text="Tên Loai" Grid.Row="0" Grid.Column="0"/>
+            <Entry x:Name="txttenloai" Grid.Row="0" Grid.Column="1"/>
+            <Button Text="Ghi" x:Name="cmdghi" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" VerticalOptions="Center" Clicked="cmdghi_Clicked"/>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>
