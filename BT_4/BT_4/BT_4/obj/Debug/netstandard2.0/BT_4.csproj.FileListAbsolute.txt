@@ -1,0 +1,7 @@
+E:\GITHUB\BT_4\BT_4\BT_4\bin\Debug\netstandard2.0\BT_4.deps.json
+E:\GITHUB\BT_4\BT_4\BT_4\bin\Debug\netstandard2.0\BT_4.dll
+E:\GITHUB\BT_4\BT_4\BT_4\obj\Debug\netstandard2.0\BT_4.csprojAssemblyReference.cache
+E:\GITHUB\BT_4\BT_4\BT_4\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\GITHUB\BT_4\BT_4\BT_4\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\GITHUB\BT_4\BT_4\BT_4\obj\Debug\netstandard2.0\BT_4.AssemblyInfoInputs.cache
+E:\GITHUB\BT_4\BT_4\BT_4\obj\Debug\netstandard2.0\BT_4.AssemblyInfo.cs

@@ -693,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GITHUB\\Bài_3\\Bài_3\\Bài_3\\Bài_3.csproj",
+      "projectUniqueName": "E:\\GITHUB\\Xamarin\\Bài_3\\Bài_3\\Bài_3\\Bài_3.csproj",
       "projectName": "Bài_3",
-      "projectPath": "E:\\GITHUB\\Bài_3\\Bài_3\\Bài_3\\Bài_3.csproj",
+      "projectPath": "E:\\GITHUB\\Xamarin\\Bài_3\\Bài_3\\Bài_3\\Bài_3.csproj",
       "packagesPath": "C:\\Users\\Huu Dinh\\.nuget\\packages\\",
-      "outputPath": "E:\\GITHUB\\Bài_3\\Bài_3\\Bài_3\\obj\\",
+      "outputPath": "E:\\GITHUB\\Xamarin\\Bài_3\\Bài_3\\Bài_3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

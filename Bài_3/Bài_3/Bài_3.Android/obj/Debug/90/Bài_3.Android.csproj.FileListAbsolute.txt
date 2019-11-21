@@ -5,3 +5,10 @@ E:\GITHUB\Bài_3\Bài_3\Bài_3.Android\obj\Debug\90\Bài_3.Android.csprojAssembl
 E:\GITHUB\Bài_3\Bài_3\Bài_3.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
 E:\GITHUB\Bài_3\Bài_3\Bài_3.Android\obj\Debug\90\resourcepaths.cache
 E:\GITHUB\Bài_3\Bài_3\Bài_3.Android\obj\Debug\90\res.flag
+E:\GITHUB\Xamarin\Bài_3\Bài_3\Bài_3.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+E:\GITHUB\Xamarin\Bài_3\Bài_3\Bài_3.Android\obj\Debug\90\build.props
+E:\GITHUB\Xamarin\Bài_3\Bài_3\Bài_3.Android\obj\Debug\90\adb.props
+E:\GITHUB\Xamarin\Bài_3\Bài_3\Bài_3.Android\obj\Debug\90\Bài_3.Android.csprojAssemblyReference.cache
+E:\GITHUB\Xamarin\Bài_3\Bài_3\Bài_3.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+E:\GITHUB\Xamarin\Bài_3\Bài_3\Bài_3.Android\obj\Debug\90\resourcepaths.cache
+E:\GITHUB\Xamarin\Bài_3\Bài_3\Bài_3.Android\obj\Debug\90\res.flag
